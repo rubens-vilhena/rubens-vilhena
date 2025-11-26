@@ -3,7 +3,7 @@
 **Legal Engineer | Operations Specialist | Trust & Safety**
 *Bridging the gap between Corporate Law, Compliance, and Code.*
 
-I am a Senior Lawyer pivoting to **Legal Engineering**. With 8 years of experience, I use my background in high-stakes investigations and corporate litigation to build tools that automate regulatory workflows and ensure data privacy.
+I am a Senior Lawyer and **Legal Engineer**. With 8 years of experience, I use my background in high-stakes investigations and corporate litigation to build tools that automate regulatory workflows and ensure data privacy.
 
 ---
 
